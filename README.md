@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=ОСНОВЫ_СОРТИРОВКА_УСЛОВИЯ)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=📁ОСНОВЫ_СОРТИРОВКА_УСЛОВИЯ)](https://git.io/typing-svg)
 
 1. Вывести все данные из таблицы «Книги», отсортировав их по столбцу «Название книги» в порядке от А до Я.
 
